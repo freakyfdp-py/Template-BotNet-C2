@@ -1,2 +1,4 @@
-# Template-BotNet-C2
-Different bot nets C2s
+# Template C2s For BotNet ( ONLY DDOSING )
+
+## Current Ones:
+ * Barebone
